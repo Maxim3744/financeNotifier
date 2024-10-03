@@ -1,0 +1,2 @@
+yfinance~=0.2.44
+twilio~=9.3.2
